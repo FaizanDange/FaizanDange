@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **.NET Core**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](https://faizandange.github.io/Portfolio?fbclid=PAAabpbYg1VOnucE3sMvi4oBK_irBZVg4e8INUSY3o4ck-EwLj66l0t9QNTwU)
+- 👨‍💻 All of my projects are available at [Faizan's workspace](https://faizandange.github.io/Portfolio?fbclid=PAAabpbYg1VOnucE3sMvi4oBK_irBZVg4e8INUSY3o4ck-EwLj66l0t9QNTwU)
 
 - 💬 Ask me about **C# , ASP.NET , SQL**
 
