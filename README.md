@@ -39,13 +39,13 @@
 
 - 👨‍💻 All of my projects are available at [Faizan's workspace](https://faizandange.github.io/Portfolio?fbclid=PAAabpbYg1VOnucE3sMvi4oBK_irBZVg4e8INUSY3o4ck-EwLj66l0t9QNTwU)
 
-- 💬 Ask me about **C# , ASP.NET , SQL**
+- 💬 Ask me about **C# , ASP.NET Core Web Api, EntityFramework , SQL**
 
 - 📫 How to reach me **faizandange123@gmail.com**
 
 <!-- - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume) -->
 
-- ⚡ Hobby  **I am BodyBuilder**
+- ⚡ Hobby  **Athlet**
 
 <br>
 <h3 align="left">Connect with me:</h3>
